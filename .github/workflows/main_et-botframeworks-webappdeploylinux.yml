@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'et-botframeworks-webappdeploylinux'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0df50c3e7a53459e9425cbc4da626c3f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_173099fedee7429dacc9e1514197fa77 }}
